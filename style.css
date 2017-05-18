@@ -1,0 +1,144 @@
+/*zaklad*/
+
+body
+{ color: #c0c0c0;
+ background-color: #0C0C0C;
+ font-weight: bold;
+ font-size: 9px;
+ font-family: 'Verdana','Arial','Times New Roman', serif }
+
+table
+{ color: #B8A26E;
+ font-weight: bold;
+ text-align: justify;
+ font-size: 10px;
+ font-family: 'Verdana','Arial','Times New Roman', serif }
+
+h1
+{ color: #d1ae0e;
+ text-align: center;
+ font-size: 18px;
+ font-weight: bold;
+ font-family: 'Verdana','Arial','Times New Roman', serif }
+
+.zvyrazneni
+{ color: #d1ae0e;
+ font-weight: bold;
+ font-size: 10px;
+ font-family: 'Verdana','Arial','Times New Roman', serif }
+ 
+.novinka
+{ color: #d1ae0e;
+ font-weight: bold;
+ font-size: 8px;
+ font-family: 'Verdana','Arial','Times New Roman', serif }
+
+img.o
+{ border: 1px solid #B8A26E }
+ 
+/*tabulky a text v obsahu*/
+
+.registrace
+{ color: #B8A26E;
+ font-weight: bold;
+ font-size: 10px;
+ font-family: 'Verdana','Arial','Times New Roman', serif }
+
+.tabulka
+{ font-weight: bold;
+ font-size: 10px;
+ font-family: 'Verdana','Arial','Times New Roman', serif;
+ border-top: 1px solid #B8A26E; 
+ border-left: 1px solid #B8A26E }
+
+.thl
+{ color: #d1ae0e;
+ text-align: center;
+ background-color: #0C0C0C;
+ border-right: 1px solid #B8A26E;
+ border-bottom: 1px solid #B8A26E }
+ 
+.to
+{ text-align: left;
+ background-color:#333333;
+ border-right: 1px solid #B8A26E;
+ border-bottom: 1px solid #B8A26E }
+
+.to2
+{ text-align: center;
+ background-color: #333333;
+ border-right: 1px solid #B8A26E;
+ border-bottom: 1px solid #B8A26E }
+
+/*menu nadpisy*/
+
+.menunadpis
+{ font-weight: bold;
+ font-size: 12px;
+ color: #B8A26E;
+ text-align: center;
+ font-family: 'Verdana','Arial','Times New Roman', serif;
+ text-decoration: none }
+
+.menutext
+{ font-weight: bold;
+ font-size: 10px;
+ text-indent: 10px; 
+ color: #B8A26E;
+ font-family: 'Verdana','Arial','Times New Roman', serif;
+ text-decoration: none }
+
+/*odkazy menu*/
+
+a.m
+{ font-weight: bold;
+ text-align: center;
+ font-family: 'Verdana','Arial','Times New Roman', serif;
+ font-size: 10px;
+ text-decoration: none }
+
+a:link.m, a:visited.m
+{ color: #d1ae0e }
+
+a:hover.m
+{ color: #f9cf11 }
+
+/*odkazy obsah*/
+
+a.o
+{ font-weight: bold;
+ border: 0px;
+ font-size: 10px;
+ font-family: 'Verdana','Arial','Times New Roman', serif;
+ text-decoration: none }
+
+a:link.o, a:visited.o
+{ color:#d1ae0e }
+
+a:hover.o
+{ color: #f9cf11 }
+
+a.obr
+{  position: relative;
+ width: 0px;
+ border: 1px solid #0C0C0C }
+
+a:link.obr, a:visited.obr
+{ border: 1px solid #0C0C0C }
+
+a:hover.obr
+{ border: 1px solid #f9cf11 }
+
+/*odkazy*/
+
+a
+{ font-weight: bold;
+ font-size: 10px;
+ font-family: 'Verdana','Arial','Times New Roman', serif;
+ text-decoration: none }
+
+a:link, a:visited
+{ color: #d1ae0e }
+
+a:hover
+{ color: #f9cf11 }
